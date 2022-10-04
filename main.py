@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
 print ( "Hello Tuesday")
 print ("Hello World its Tuesday")
+print ("Hello world its not tuesday its wednesday")
